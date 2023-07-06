@@ -1,2 +1,2 @@
 #!/bin/dash
-cp -un *.html ../
+cp  -un *.html ../
